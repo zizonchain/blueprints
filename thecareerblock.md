@@ -21,7 +21,7 @@ The Career Block is a dynamic and engaging event designed to expose students (pr
 	-   **Communication:** Use a group chat (Telegram) for communication and updates.
     -   **Proof of Attendance:** Create and distribute POAPs to student attendees for their participation, and speakers for their contribution. See POAP artwork examples (develop prompt drafts)
     -	**Announcements:** [artwork template](https://private-user-images.githubusercontent.com/4807184/413229985-50d17786-ca49-4310-bffa-0a9f6a642ca9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MzAzNzcsIm5iZiI6MTczOTUzMDA3NywicGF0aCI6Ii80ODA3MTg0LzQxMzIyOTk4NS01MGQxNzc4Ni1jYTQ5LTQzMTAtYmZmYS0wYTlmNmE2NDJjYTkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDIxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAyMTRUMTA0NzU3WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTQzNjY0ZDM2OTI5OGM0MWZjZjFiYWIxYTQxM2IzMzY1NGI1NjQzNmYyMjIyNTk5NGM5MTZjODdkYzVlNzZlNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.tVigWE7SWSUNBPdJQcwsrPzcsJJBBw7wyICRz9t2DI0)
-    -   **Video content:** tbd
+    -   **Video content:** For iPhone video recordings, you don't need a separate microphone. Just stay close to the presenter to capture clear audio, or position yourself near a speaker or sound baffle. As a busy host, feel free to ask one of the guests for support. Good camera skills is a bonus for overall video quality.
     -   **Post-Event:** tbd
     
 
